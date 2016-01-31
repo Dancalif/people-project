@@ -1,9 +1,9 @@
-#Basic Project
+#People Project
 
-Basic Java Maven Project Structure
+Project which uses the People class to manipulate People instances.
 
-*QA
+*OOP
 *Java
-*Maven
+*Intances
 
 [Denis Umanets](http://sqasolution.com)
